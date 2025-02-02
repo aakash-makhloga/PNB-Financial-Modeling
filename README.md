@@ -34,6 +34,4 @@ This project contains a financial model for Punjab National Bank (PNB), analyzin
 ## License
 This project is open-source. Feel free to use and modify it as needed.
 
-## Contact
-For any queries or suggestions, please reach out via GitHub Issues or email at [your email].
 
